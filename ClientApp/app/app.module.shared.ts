@@ -3,10 +3,8 @@ import { RouterModule } from '@angular/router';
 
 import { AppComponent } from './components/app/app.component'
 import { NavMenuComponent } from './components/navmenu/navmenu.component';
-import { NavHeaderComponent } from './components/headernav/navheader.component';
+import { NavHeaderComponent } from './components/navheader/navheader.component';
 import { HomeComponent } from './components/home/home.component';
-import { FetchDataComponent } from './components/fetchdata/fetchdata.component';
-import { CounterComponent } from './components/counter/counter.component';
 
 export const sharedConfig: NgModule = {
     bootstrap: [ AppComponent ],
@@ -14,8 +12,6 @@ export const sharedConfig: NgModule = {
         AppComponent,
         NavMenuComponent,
         NavHeaderComponent,
-        CounterComponent,
-        FetchDataComponent,
         HomeComponent
     ],
     imports: [
