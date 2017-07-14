@@ -59,7 +59,7 @@
 /******/ 	
 /******/ 	
 /******/ 	var hotApplyOnUpdate = true;
-/******/ 	var hotCurrentHash = "85a3dfbb0b7be36c85a0"; // eslint-disable-line no-unused-vars
+/******/ 	var hotCurrentHash = "d55cdb5277567e6480fe"; // eslint-disable-line no-unused-vars
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule; // eslint-disable-line no-unused-vars
 /******/ 	var hotCurrentParents = []; // eslint-disable-line no-unused-vars
@@ -2057,7 +2057,7 @@ module.exports = "<div >\r\n    <h1>BARRICK Activity page goes here.</h1>\r\n</d
 /* 23 */
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"container-fluid\" style=\"padding: 0px\">\n\n    <nav class=\"navbar navbar-inverse\" style=\"padding: 0px\">\n        \n        <div class=\"navbar-header\">\n            <button  aria-expanded=\"false\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" type=\"button\">\n                <span class=\"sr-only\">Toggle navigation</span>\n                <span  class=\"icon-bar\"></span>\n                <span class=\"icon-bar\"></span>\n                <span class=\"icon-bar\"></span>\n            </button>\n            <a  class=\"navbar-brand\" href=\"#\">BARRICK aaaaaaaaaaaaa</a>\n        </div>\n\n        \n        <div class=\"collapse navbar-collapse\" id=\"bs-example-navbar-collapse-1\">\n\n            <ul class=\"nav navbar-nav navbar-right\">\n                <li ><a href=\"#\">Login</a></li>\n            </ul>\n        </div>\n\n    </nav>\n</div>\n\n";
+module.exports = "<div class=\"container-fluid\" style=\"padding: 0px\">\r\n\r\n    <nav class=\"navbar navbar-inverse\" style=\"padding: 0px\">\r\n        \r\n        <div class=\"navbar-header\">\r\n            <button  aria-expanded=\"false\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" type=\"button\">\r\n                <span class=\"sr-only\">Toggle navigation</span>\r\n                <span  class=\"icon-bar\"></span>\r\n                <span class=\"icon-bar\"></span>\r\n                <span class=\"icon-bar\"></span>\r\n            </button>\r\n            <a  class=\"navbar-brand\" href=\"#\">BARRICK aaaaaaaaaaaaa</a>\r\n        </div>\r\n\r\n        \r\n        <div class=\"collapse navbar-collapse\" id=\"bs-example-navbar-collapse-1\">\r\n\r\n            <ul class=\"nav navbar-nav navbar-right\">\r\n                <li ><a href=\"#\">Login</a></li>\r\n            </ul>\r\n        </div>\r\n\r\n    </nav>\r\n</div>\r\n\r\n";
 
 /***/ }),
 /* 24 */
